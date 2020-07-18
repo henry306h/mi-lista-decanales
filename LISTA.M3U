@@ -1,0 +1,146 @@
+#EXTM3U
+#EXTINF:-1,DISCOVERY CHANNEL 
+https://grifo8.mitopo.me/live/discovery/index.m3u8?token=axyDqxlpKJfz0ZX71nqwOQ&expires=1595068047
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+https://grifo6.mitopo.me/live/nationalgeo/index.m3u8?token=YawlrTlKIm7DQrQ2gfoWUg&expires=1595023598
+   
+#EXTINF:-1,NATIONAL GEO WILD
+https://grifo5.mitopo.me/live/nationalwild/index.m3u8?token=QUhjwTCwI2ebgwqDobVFqg&expires=1595067365
+
+#EXTINF:-1,DMAX 
+https://petopa151.caraponi.me/live/dmax/index.m3u8?token=ixFM0m_HZr84oSAUeE7txw&expires=1595067851
+
+#EXTINF:-1,HITORIA CHANEL
+https://grifo4.mitopo.me/live/historia/index.m3u8?token=u9sFmfTDvq-nmKihni4H8A&expires=1595067551
+
+#EXTINF:-1,ODISEA
+https://grifo6.mitopo.me/live/odisea/index.m3u8?token=5fmKETnwRMPlw-B4ZCervQ&expires=1595068265
+
+#EXTINF:-1,CAZA Y PESCA
+https://grifo5.mitopo.me/live/cazaypesca/index.m3u8?token=qvJPsvifH5yQrHDBnk1ntw&expires=1595068470
+
+#EXTINF:-1,INTERECONOMIA
+https://live-edge-lon-1.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8
+
+#EXTINF:-1,REAL MADRID
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,HBO LATINO
+https://petopa152.caraponi.me/live/hbolatino/index.m3u8?token=zIKY5XxWKzzlhQj7EroXwQ&expires=1595010866
+
+#EXTINF:-1,HBO2
+https://ul.cdn946.net:8443/hls/td3zfn7dqx.m3u8?s=RP0Wou0DVWujULJQYFp8EA&e=1595005876
+
+#EXTINF:-1,cinemax
+https://pico13.pedromo.me/live/cinemax/index.m3u8?token=4b16bwMBN_MatcWu-33gLg&expires=1595023000
+
+#EXTINF:-1,FOX LATINO
+
+
+#EXTINF:-1,CRIMEN + INVESTIGACIÓN	
+https://grifo5.mitopo.me/live/ci/index.m3u8?token=Oq0D-0qOPFgBcWMuFLxzFQ&expires=1595065099
+
+#EXTINF:-1,MEGA
+https://pico13.pedromo.me/live/mega/index.m3u8?token=b7tM7Uxz9xcw-60Y2iFGtw&expires=1595067196
+
+#EXTINF:-1,NEOX
+https://grifo5.mitopo.me/live/neox/index.m3u8?token=bP1LPxAQWENehGNSnnXTWQ&expires=1595068868
+
+#EXTINF:-1,SYFY
+https://ul.cdn946.net:8443/hls/4620ulqbe8n64f8.m3u8?s=SheGsMqLgJXkW7Z9GQXCYw&e=1595006480
+
+#EXTINF:-1,BLOOBER TV
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1,TELEMUSICA
+http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
+
+#EXTINF:-1,RAI 4 HD
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+
+#EXTINF:-1,TV GALICIA AMERICA
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1,D DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,TELEVICION DEL ESTE
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1,MELODY CHANEL
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+
+#EXTINF:-1,M20 TV SD
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:-1,CDF DEPORTES EN VIVO
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
+
+#EXTINF:-1,GARAGE TV AUTO PLANET
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+
+#EXTINF:-1,TELEMAIX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1,TVE MURCIA 7
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+
+#EXTINF:-1,ALCARRIA TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+
+#EXTINF:-1,FIGHT TIME
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
+
+#EXTINF:-1,TELEMICRO
+http://51.89.152.28/hls/tmicro.m3u8
+
+#EXTINF:-1,TELEMICRO HD
+http://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
+
+#EXTINF:-1,UrbancrisTV
+https://5790d294af2dc.streamlock.net/8160/8160/playlist.m3u8
+
+#EXTINF:-1,ANTENA7
+http://51.89.152.28:80/hls/alatina.m3u8
+
+#EXTINF:-1,COLOR VICION
+http://51.89.152.28:80/hls/color.m3u8
+
+#EXTINF:-1,TELECISTEMA
+http://ss3.domint.net:2114/t11_str/telesistema/playlist.m3u8
+
+#EXTINF:-1,TELECENTRO
+https://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
+
+#EXTINF:-1,RAI GULP HD
+http://tvpremiumhd.club/lista-premium/152517/on/lives.php?id=d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/live.m3u8
+
+
+http://tvpremiumhd.club/lista-premium/152517/on/lives.php?id=d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+
+
+
+http://tvpremiumhd.club/lista-premium/152517/on/live.php?id=bit.ly/3dRguV2
+
+
+http://tvpremiumhd.club/lista-premium/on/live.php?id=bit.ly/3dRguV2
+
+
+
+
+
+
+
+
+
+152517/
+
+http://tvpremiumhd.club/lista-premium/AAAAAAAAAA325571/on/live.php?id=b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+
+
+
+
